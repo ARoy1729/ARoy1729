@@ -80,15 +80,6 @@ From predicting FOREX market directions with SVMs to building LLM-powered disast
 
 ---
 
-## 📜 Certifications & Training
-
-- 🤖 **5-Day AI Agents Intensive** — Kaggle × Google *(Nov 2025)*
-- 🧩 **Agentic AI Developer Certificate** — Acharya.ai *(2025)*
-- 📊 **Data Science Summer School** — Wadhwani School of DS & AI, IIT Madras *(2024)*
-- 🗣️ **Workshop on Generative AI & NLP for Indic Languages** — KIIT University & OITS *(2024)*
-- 🐍 **Spoken Tutorial Python 3.4.3** — IIT Bombay *(2022)*
-
----
 
 ## 📊 GitHub Activity
 

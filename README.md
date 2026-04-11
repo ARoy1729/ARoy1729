@@ -91,10 +91,6 @@ analyze_ahan(github_data) 🚀
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARoy1729&show_icons=true&theme=dracula&hide_border=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARoy1729&layout=compact&theme=dracula&hide_border=true)
-
 </div>
 
 ---

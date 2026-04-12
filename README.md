@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Ahan Roy
 
-### 🧮 Mathematician turned AI Engineer | LLMs · NLP · Generative AI · Multi-Agent Systems
+### Mathematician turned AI Engineer || LLMs · NLP · Generative AI · Multi-Agent Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahan-roy-5872b9190)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARoy1729)
@@ -13,17 +13,17 @@
 
 ---
 
-## 🧠 Who Am I?
+##  Who Am I?
 
 > *"Where rigorous mathematics meets the frontier of Artificial Intelligence."*
 
-I'm a **postgraduate in Mathematics with Data Science** from the [Institute of Mathematics and Applications, Bhubaneswar](https://www.iomaorissa.ac.in/), with a deep passion for building intelligent systems that solve real-world problems. My work sits at the crossroads of **Large Language Models, Geospatial AI, and Agentic Systems** — turning complex data into decisions.
+I'm a **postgraduate in Mathematics with Data Science** from the [Institute of Mathematics and Applications, Bhubaneswar](https://www.iomaorissa.ac.in/), with a deep passion for building intelligent systems that solve real-world problems. My work sits at the crossroads of **Deep Learning, Large Language Models, Geospatial AI, and Agentic Systems** — turning complex data into decisions.
 
 From predicting FOREX market directions with SVMs to building LLM-powered disaster management systems, I love pushing the boundaries of what AI can do — rigorously and creatively.
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
 - 🌍 **LLM-Based Geotagging System** for real-time disaster management in India — automating extraction & visualization from social media and news using NLP + geospatial reasoning *(IIT Bhubaneswar)*
 - 🤖 **Intelligent AI agents** at DataMatrixAI — building scalable pipelines with OCR, RAG, and LLM-based document processing
@@ -31,7 +31,7 @@ From predicting FOREX market directions with SVMs to building LLM-powered disast
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Tools**
 
@@ -62,7 +62,7 @@ From predicting FOREX market directions with SVMs to building LLM-powered disast
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -72,16 +72,16 @@ From predicting FOREX market directions with SVMs to building LLM-powered disast
 
 ---
 
-## 🎓 Education
+##  Education
 
-🏛️ **M.Sc. Mathematics with Data Science** — Institute of Mathematics and Applications, Bhubaneswar *(2023–2025)* | CGPA: 8.37/10
+🏛️ **M.Sc. in Mathematics with Data Science** — Institute of Mathematics and Applications, Bhubaneswar *(2023–2025)* | CGPA: 8.37/10
 
-🏛️ **B.Sc. Mathematics (Hons.)** — Ramakrishna Mission Vivekananda Centenary College, Kolkata *(2020–2023)* | CGPA: 8.63/10
+🏛️ **B.Sc. in Mathematics (Hons.)** — Ramakrishna Mission Vivekananda Centenary College, Kolkata *(2020–2023)* | CGPA: 8.63/10
 
 ---
 
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 ```python
 analyze_ahan(github_data) 🚀

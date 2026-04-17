@@ -66,9 +66,9 @@ From predicting FOREX market directions with SVMs to building LLM-powered disast
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌐 [LLM Geotagging for Disaster Mgmt](https://github.com/ARoy1729) | Automated real-time disaster data extraction & map visualization from social media | LLMs, NLP, Geospatial AI |
-| 🎵 [Music Support AI System](https://github.com/ARoy1729) | Conversational AI for music platform — automates queries & generates insights | Ollama, LangGraph, PostgreSQL, Vector DB |
-| 📈 [FOREX Direction Predictor](https://github.com/ARoy1729) | SVM-based model to predict EUR/JPY directional movement from historical data | SVM, Feature Engineering, ETL |
+| [LLM-Based Geotagging System for Disaster Management in India](https://github.com/ARoy1729) | Automated real-time disaster data extraction & map visualization from social media | LLMs, NLP, Geospatial AI |
+| [Conversational AI system for Music Support & Analytics](https://github.com/ARoy1729/Conversational-AI-powered-System-for-Music-Support-and-Analytics.git) | Conversational AI for music platform — automates queries & generates insights | Ollama, LangGraph, PostgreSQL, Vector DB |
+| [FOREX Directional Movement Prediction](https://github.com/ARoy1729/FOREX-directional-movement-prediction.git) | SVM-based model to predict EUR/JPY directional movement from historical data | SVM, Feature Engineering, ETL |
 
 ---
 

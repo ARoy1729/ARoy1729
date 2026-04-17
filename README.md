@@ -74,9 +74,9 @@ From predicting FOREX market directions with SVMs to building LLM-powered disast
 
 ##  Education
 
-🏛️ **M.Sc. in Mathematics with Data Science** — Institute of Mathematics and Applications, Bhubaneswar *(2023–2025)* | CGPA: 8.37/10
+🏛️ **M.Sc. in Mathematics with Data Science** — [Institute of Mathematics and Applications, Bhubaneswar](https://www.iomaorissa.ac.in/) *(2023–2025)* | CGPA: 8.37/10
 
-🏛️ **B.Sc. in Mathematics (Hons.)** — Ramakrishna Mission Vivekananda Centenary College, Kolkata *(2020–2023)* | CGPA: 8.63/10
+🏛️ **B.Sc. in Mathematics (Hons.)** — [Ramakrishna Mission Vivekananda Centenary College, Kolkata](https://www.rkmvccrahara.org/) *(2020–2023)* | CGPA: 8.63/10
 
 ---
 

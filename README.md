@@ -17,7 +17,7 @@
 
 > *"Where rigorous mathematics meets the frontier of Artificial Intelligence."*
 
-I'm a **postgraduate in Mathematics with Data Science** from the [Institute of Mathematics and Applications, Bhubaneswar](https://www.iomaorissa.ac.in/), with a deep passion for building intelligent systems that solve real-world problems. My work sits at the crossroads of **Deep Learning, Large Language Models, Geospatial AI, and Agentic Systems** — turning complex data into decisions.
+I'm a **postgraduate in Mathematics with Data Science**, with a deep passion for building intelligent systems that solve real-world problems. My work sits at the crossroads of **Deep Learning, Large Language Models, Geospatial AI, and Agentic Systems** — turning complex data into decisions.
 
 From predicting FOREX market directions with SVMs to building LLM-powered disaster management systems, I love pushing the boundaries of what AI can do — rigorously and creatively.
 

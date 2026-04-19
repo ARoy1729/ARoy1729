@@ -25,7 +25,7 @@ From predicting FOREX market directions with SVMs to building LLM-powered disast
 
 ##  What I'm Working On
 
-- 🌍 **LLM-Based Geotagging System** for real-time disaster management in India — automating extraction & visualization from social media and news using NLP + geospatial reasoning *(IIT Bhubaneswar)*
+- 🌍 **LLM-Based Geotagging System** for real-time disaster management in India — automating extraction & visualization from social media and news using NLP + geospatial reasoning *([IIT Bhubaneswar](https://www.iitbbs.ac.in))*
 - 🤖 **Intelligent AI agents** at DataMatrixAI — building scalable pipelines with OCR, RAG, and LLM-based document processing
 - 🎵 **Conversational AI for Music Analytics** — an LLM + LangGraph + vector DB system for automated customer support and insights
 

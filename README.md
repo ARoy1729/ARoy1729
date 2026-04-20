@@ -53,7 +53,7 @@ From predicting FOREX market directions with SVMs to building LLM-powered disast
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-276DC3?style=flat-square&logo=neo4j&logoColor=white)
 
 **Visualization**
 

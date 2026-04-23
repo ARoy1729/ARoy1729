@@ -4,21 +4,6 @@
 
 ### Mathematician turned AI Engineer || LLMs · NLP · Generative AI · Multi-Agent Systems
 
-<div align="center">
-
-<a href="mailto:ahan2002roy@gmail.com" style="text-decoration:none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="35px" height="35px" />
-</a>
-&emsp;&emsp;
-<a href="https://linkedin.com/in/ahan-roy-5872b9190" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="35px" height="35px" />
-</a>
-&emsp;&emsp;
-<a href="https://github.com/ARoy1729" style="text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="35px" height="35px" />
-</a>
-
-</div>
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ahan2002roy@gmail.com)
 &emsp;&emsp;

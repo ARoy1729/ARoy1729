@@ -15,7 +15,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ARoy1729">
-  <img src="https://cdn.simpleicons.org/github/#ffffff" width="35px" height="35px" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="35px" height="35px" />
 </a>
 
 </div>

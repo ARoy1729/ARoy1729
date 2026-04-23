@@ -21,9 +21,7 @@
 </div>
 
 [![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png)](mailto:ahan2002roy@gmail.com)
-&emsp;&emsp;&emsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ahan-roy-5872b9190)
-&emsp;&emsp;&emsp;
 [![GitHub](https://cdn.simpleicons.org/github/ffffff)](https://github.com/ARoy1729)
 
 </div>

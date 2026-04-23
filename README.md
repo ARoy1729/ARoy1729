@@ -11,8 +11,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ahan-roy-5872b9190)
 &emsp;&emsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ARoy1729)
-&emsp;&emsp;
-[![Kaggle](https://skillicons.dev/icons?i=kaggle)](https://kaggle.com/ahanroy)
 
 </div>
 

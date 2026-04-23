@@ -7,15 +7,15 @@
 <div align="center">
 
 <a href="mailto:ahan2002roy@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30px" height="30px" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35px" height="35px" />
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/ahan-roy-5872b9190">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30px" height="30px" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35px" height="35px" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ARoy1729">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30px" height="30px" />
+  <img src="https://cdn.simpleicons.org/github/181717" width="35px" height="35px" />
 </a>
 
 </div>

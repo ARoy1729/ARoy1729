@@ -24,7 +24,7 @@
 &emsp;&emsp;&emsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ahan-roy-5872b9190)
 &emsp;&emsp;&emsp;
-[![GitHub](https://cdn.simpleicons.org/github/000000)](https://github.com/ARoy1729)
+[![GitHub](https://skillicons.dev/icons?i=GitHub)](https://github.com/ARoy1729)
 
 </div>
 

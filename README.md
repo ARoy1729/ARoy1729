@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="mailto:ahan2002roy@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35px" height="35px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="35px" height="35px" />
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/ahan-roy-5872b9190">

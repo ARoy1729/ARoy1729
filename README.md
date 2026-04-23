@@ -11,7 +11,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/ahan-roy-5872b9190">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="35px" height="35px" />
+  <img src="[https://cdn.simpleicons.org/linkedin/0077B5](https://skillicons.dev/icons?i=linkedin)" width="35px" height="35px" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ARoy1729">

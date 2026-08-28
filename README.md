@@ -85,17 +85,7 @@ From predicting FOREX market directions with SVMs to building LLM-powered disast
 ---
 
 
-##  GitHub Activity
 
-```python
-analyze_ahan(github_data) 🚀
-```
-
-[![Ahan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARoy1729&theme=dracula)](https://github.com/ARoy1729)
-
-<div align="center">
-
-</div>
 
 ---
 
@@ -109,5 +99,9 @@ I'm always open to collaborating on **AI/ML research, LLM applications, and data
 [![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahan2002roy@gmail.com)
 
 ⭐️ *If you find my work interesting, consider starring some repositories!* ⭐️
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
 
 </div>

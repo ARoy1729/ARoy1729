@@ -85,7 +85,7 @@ From predicting FOREX market directions with SVMs to building LLM-powered disast
 ---
 
 
-##💡 Open to Collaboration
+## 💡 Open to Collaboration
 
 I'm always open to collaborating on **AI/ML research, LLM applications, and data-driven projects**. Whether you have an exciting idea or just want to talk AI, feel free to reach out!
 
